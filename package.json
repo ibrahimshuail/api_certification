@@ -1,0 +1,11 @@
+{
+  "name": "api_certification",
+  "version": "1.0.0",
+  "description": "Framework to certify API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim",
+  "license": "ISC"
+}
